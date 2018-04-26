@@ -10,7 +10,7 @@ Classes:
 
 Utils:
 
-*AsyncTask
-*TaskListener
-*SetupToolbar
+* AsyncTask
+* TaskListener
+* SetupToolbar
 
